@@ -1,5 +1,4 @@
-
-	}ckage com.example.nick.socketio;
+package com.example.nick.socketio;
 
 import android.app.Notification;
 import android.app.NotificationManager;
@@ -85,4 +84,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
     };
 }
-)
+
